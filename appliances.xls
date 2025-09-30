@@ -1,0 +1,201 @@
+appliance_id,name,category,brand,price_range,features,base_avg_rating
+AP0000,KitchenAid Robot Vacuum Model Alpha3237,Robot Vacuum,KitchenAid,Low,"Self-Charging, Mapping Technology",3.9
+AP0001,Electrolux Vacuum Cleaner Model Pro3997,Vacuum Cleaner,Electrolux,Premium,"Canister, Robotic, Upright",3.9
+AP0002,Instant Pot Water Heater Model S6996,Water Heater,Instant Pot,Medium,"Storage Tank, Electric, Heat Pump, Tankless",2.7
+AP0003,Bosch Robot Vacuum Model X720,Robot Vacuum,Bosch,Premium,"Self-Charging, Mapping Technology",4.3
+AP0004,Panasonic Dishwasher Model X5485,Dishwasher,Panasonic,Premium,Quiet Operation,3.2
+AP0005,Bosch Coffee Maker Model Alpha3087,Coffee Maker,Bosch,Low,"Pod-Based, Programmable, Grind and Brew, Drip",4.1
+AP0006,Kenmore Robot Vacuum Model Pro5077,Robot Vacuum,Kenmore,Low,"App Control, Mopping Feature, Self-Charging, Mapping Technology",2.7
+AP0007,Breville Robot Vacuum Model X3581,Robot Vacuum,Breville,Premium,Mapping Technology,2.3
+AP0008,Maytag Vacuum Cleaner Model Eco5977,Vacuum Cleaner,Maytag,Low,"Upright, Canister, Robotic, HEPA Filter",4.2
+AP0009,Whirlpool Robot Vacuum Model X8128,Robot Vacuum,Whirlpool,Medium,"App Control, Mopping Feature, Self-Charging, Mapping Technology",2.9
+AP0010,Panasonic Toaster Model S5694,Toaster,Panasonic,Medium,"4-Slice, Wide Slots",3.5
+AP0011,Breville Air Fryer Model Alpha3878,Air Fryer,Breville,Medium,"Multiple Presets, Large Capacity",3.2
+AP0012,Maytag Blender Model Max9522,Blender,Maytag,Low,"Smoothie Setting, Immersion",3.6
+AP0013,Samsung Refrigerator Model S2684,Refrigerator,Samsung,Premium,"French Door, Water Dispenser",3.1
+AP0014,Electrolux Oven Model X1647,Oven,Electrolux,Premium,"Electric, Smart Features, Double Oven, Self-Cleaning",2.1
+AP0015,Kenmore Food Processor Model Eco6752,Food Processor,Kenmore,Low,"Large Bowl, Dough Blade, Multiple Blades",3.7
+AP0016,Instant Pot Refrigerator Model X3377,Refrigerator,Instant Pot,Low,"French Door, Frost-Free",3.8
+AP0017,Samsung Oven Model Pro6625,Oven,Samsung,Medium,"Convection, Gas, Smart Features, Electric",3.3
+AP0018,Maytag Blender Model Alpha1016,Blender,Maytag,High,Immersion,3.2
+AP0019,Panasonic Security Camera Model Eco7897,Security Camera,Panasonic,Medium,"Wireless, Indoor",2.1
+AP0020,Kenmore Air Conditioner Model Eco3348,Air Conditioner,Kenmore,High,"Portable, Split AC, Energy Saver",2.4
+AP0021,Maytag Dishwasher Model Eco3090,Dishwasher,Maytag,Medium,"Quiet Operation, Third Rack, Stainless Steel Tub",4.8
+AP0022,Whirlpool Blender Model Max3488,Blender,Whirlpool,Low,"Smoothie Setting, Countertop",2.3
+AP0023,Instant Pot Stand Mixer Model Pro3615,Stand Mixer,Instant Pot,High,Multiple Attachments,2.6
+AP0024,Maytag Blender Model X5384,Blender,Maytag,Premium,"High Power, Immersion, Smoothie Setting, Countertop",2.1
+AP0025,LG Coffee Maker Model Eco832,Coffee Maker,LG,Medium,"Pod-Based, Programmable, Espresso, Drip",4.9
+AP0026,Breville Dryer Model Eco6933,Dryer,Breville,Premium,"Steam Cycle, Ventless, Electric, Gas, Sensor Dry",3.1
+AP0027,GE Appliances Oven Model Pro7573,Oven,GE Appliances,Premium,"Smart Features, Gas",2.7
+AP0028,GE Appliances Electric Kettle Model S6872,Electric Kettle,GE Appliances,Premium,"Rapid Boil, Variable Temperature, Cordless",4.2
+AP0029,GE Appliances Water Heater Model Pro1636,Water Heater,GE Appliances,Low,"Heat Pump, Gas",4.9
+AP0030,Kenmore Blender Model X8012,Blender,Kenmore,Premium,"High Power, Countertop",2.3
+AP0031,Bosch Dishwasher Model X5395,Dishwasher,Bosch,Premium,"Stainless Steel Tub, Third Rack, Portable",2.6
+AP0032,Cuisinart Air Conditioner Model Alpha3795,Air Conditioner,Cuisinart,Low,"Split AC, Energy Saver, Window Unit",4.3
+AP0033,Ninja Blender Model S9952,Blender,Ninja,Low,"Countertop, Immersion, High Power, Smoothie Setting",3.9
+AP0034,KitchenAid Electric Kettle Model Max1010,Electric Kettle,KitchenAid,High,"Variable Temperature, Stainless Steel, Cordless",3.5
+AP0035,Cuisinart Coffee Maker Model Max6504,Coffee Maker,Cuisinart,Premium,"Pod-Based, Drip, Programmable, Grind and Brew, Espresso",3.3
+AP0036,Miele Range Hood Model Alpha6016,Range Hood,Miele,Medium,"Ductless, Convertible, Powerful CFM, Ducted",4.7
+AP0037,LG Coffee Maker Model Eco1730,Coffee Maker,LG,Premium,"Programmable, Pod-Based, Drip, Grind and Brew, Espresso",2.8
+AP0038,Panasonic Microwave Model Max7169,Microwave,Panasonic,Premium,Convection,3.6
+AP0039,Miele Range Hood Model X4393,Range Hood,Miele,Low,"Convertible, Powerful CFM",2.4
+AP0040,Frigidaire Washing Machine Model Eco9494,Washing Machine,Frigidaire,High,"Large Capacity, High Efficiency",4.6
+AP0041,Breville Microwave Model X3860,Microwave,Breville,Low,Over-the-Range,2.6
+AP0042,Miele Food Processor Model X8299,Food Processor,Miele,High,"Dough Blade, Large Bowl, Multiple Blades",3.6
+AP0043,Breville Blender Model Pro539,Blender,Breville,Low,High Power,4.7
+AP0044,Electrolux Security Camera Model X8958,Security Camera,Electrolux,Medium,Indoor,4.4
+AP0045,Sony Robot Vacuum Model Max1710,Robot Vacuum,Sony,Low,"Mopping Feature, App Control, Self-Charging",2.3
+AP0046,Sharp Toaster Model Alpha6024,Toaster,Sharp,Medium,"2-Slice, 4-Slice",2.0
+AP0047,Instant Pot Air Fryer Model Max3529,Air Fryer,Instant Pot,Low,"Multiple Presets, Large Capacity",2.6
+AP0048,KitchenAid Food Processor Model Eco8953,Food Processor,KitchenAid,High,"Dough Blade, Large Bowl, Multiple Blades",3.1
+AP0049,Cuisinart Food Processor Model Pro5970,Food Processor,Cuisinart,High,"Large Bowl, Multiple Blades, Dough Blade",4.7
+AP0050,Frigidaire Air Fryer Model Alpha2906,Air Fryer,Frigidaire,Low,"Digital Controls, Large Capacity, Easy Clean, Multiple Presets",3.8
+AP0051,Bosch Range Hood Model Alpha9972,Range Hood,Bosch,Medium,"Powerful CFM, Convertible, Ducted",2.7
+AP0052,Miele Stand Mixer Model Pro7509,Stand Mixer,Miele,High,"Multiple Attachments, Planetary Action, Large Bowl Capacity",3.7
+AP0053,Breville Oven Model Eco6312,Oven,Breville,Premium,"Electric, Smart Features, Double Oven, Convection, Gas",4.7
+AP0054,Miele Smart Speaker Model Alpha2316,Smart Speaker,Miele,Medium,"Bluetooth, Voice Assistant",2.4
+AP0055,Ninja Vacuum Cleaner Model Alpha3873,Vacuum Cleaner,Ninja,Low,"Canister, Upright",4.5
+AP0056,Bosch Toaster Model X8092,Toaster,Bosch,Medium,"2-Slice, Wide Slots",2.6
+AP0057,Breville Stand Mixer Model X7133,Stand Mixer,Breville,Medium,Planetary Action,2.4
+AP0058,Whirlpool Robot Vacuum Model S1958,Robot Vacuum,Whirlpool,Low,App Control,2.2
+AP0059,Breville Microwave Model Alpha3833,Microwave,Breville,Premium,"Sensor Cooking, Convection",2.3
+AP0060,Bosch Toaster Model Pro721,Toaster,Bosch,Medium,4-Slice,4.4
+AP0061,Haier Water Heater Model Alpha7034,Water Heater,Haier,Low,"Electric, Gas, Tankless, Storage Tank, Heat Pump",4.4
+AP0062,Whirlpool Toaster Model S1698,Toaster,Whirlpool,High,"2-Slice, Wide Slots",4.8
+AP0063,Dyson Refrigerator Model Pro4273,Refrigerator,Dyson,Premium,"Energy Star, Water Dispenser, Side-by-Side, Frost-Free, French Door",2.4
+AP0064,Ninja Microwave Model Alpha2379,Microwave,Ninja,High,"Sensor Cooking, Countertop, Over-the-Range",3.4
+AP0065,GE Appliances Stand Mixer Model Pro1930,Stand Mixer,GE Appliances,High,"Planetary Action, Large Bowl Capacity",4.6
+AP0066,Frigidaire Range Hood Model X7232,Range Hood,Frigidaire,Low,"Ductless, Powerful CFM, Convertible, Ducted",4.9
+AP0067,Maytag Oven Model Eco5503,Oven,Maytag,Low,"Self-Cleaning, Gas, Convection",2.9
+AP0068,KitchenAid Electric Kettle Model Pro5120,Electric Kettle,KitchenAid,Medium,"Rapid Boil, Stainless Steel, Cordless",2.6
+AP0069,KitchenAid Dishwasher Model Alpha376,Dishwasher,KitchenAid,Medium,"Stainless Steel Tub, Portable, Third Rack, Quiet Operation, Built-In",3.2
+AP0070,Sharp Vacuum Cleaner Model Alpha5941,Vacuum Cleaner,Sharp,Premium,"Cordless, Canister",2.1
+AP0071,KitchenAid Coffee Maker Model Eco8162,Coffee Maker,KitchenAid,Low,"Drip, Pod-Based, Grind and Brew, Espresso",3.2
+AP0072,GE Appliances Stand Mixer Model Pro7026,Stand Mixer,GE Appliances,Low,"Planetary Action, Multiple Attachments, Large Bowl Capacity",3.3
+AP0073,Cuisinart Water Heater Model Eco153,Water Heater,Cuisinart,Low,"Tankless, Storage Tank, Electric",4.7
+AP0074,Dyson Blender Model Eco4099,Blender,Dyson,Medium,"Countertop, High Power",4.0
+AP0075,Dyson Air Conditioner Model Alpha873,Air Conditioner,Dyson,High,Energy Saver,2.6
+AP0076,Maytag Dryer Model S898,Dryer,Maytag,Medium,"Sensor Dry, Electric, Gas, Steam Cycle, Ventless",3.2
+AP0077,Sony Smart Speaker Model Pro6633,Smart Speaker,Sony,Low,"Wi-Fi, Multi-room Audio",2.9
+AP0078,KitchenAid Dryer Model Eco6964,Dryer,KitchenAid,Medium,"Gas, Steam Cycle, Electric, Sensor Dry, Ventless",4.6
+AP0079,Sharp Microwave Model Eco5147,Microwave,Sharp,Medium,"Over-the-Range, Convection",3.7
+AP0080,Instant Pot Microwave Model X3624,Microwave,Instant Pot,High,Countertop,3.8
+AP0081,Haier Air Fryer Model Pro2234,Air Fryer,Haier,High,Large Capacity,2.6
+AP0082,Sharp Coffee Maker Model Max5755,Coffee Maker,Sharp,Medium,"Grind and Brew, Drip, Espresso, Pod-Based",3.5
+AP0083,Panasonic Washing Machine Model Alpha9164,Washing Machine,Panasonic,High,"Steam Cycle, High Efficiency",4.7
+AP0084,Maytag Electric Kettle Model Max6820,Electric Kettle,Maytag,High,"Rapid Boil, Variable Temperature, Cordless, Stainless Steel",2.8
+AP0085,Sony Air Conditioner Model Alpha5024,Air Conditioner,Sony,Low,Energy Saver,2.6
+AP0086,Haier Dryer Model Eco4736,Dryer,Haier,Medium,"Electric, Gas, Steam Cycle, Sensor Dry",4.1
+AP0087,GE Appliances Microwave Model X245,Microwave,GE Appliances,Medium,"Over-the-Range, Sensor Cooking, Convection, Countertop",2.4
+AP0088,Sony Range Hood Model S7127,Range Hood,Sony,Medium,"Powerful CFM, Ductless, Ducted, Convertible",4.4
+AP0089,Instant Pot Coffee Maker Model Pro4055,Coffee Maker,Instant Pot,Medium,"Drip, Espresso, Pod-Based",2.6
+AP0090,KitchenAid Stand Mixer Model Alpha8478,Stand Mixer,KitchenAid,Low,Planetary Action,4.3
+AP0091,Whirlpool Air Fryer Model Alpha8723,Air Fryer,Whirlpool,High,Easy Clean,3.7
+AP0092,Breville Dishwasher Model Max4927,Dishwasher,Breville,Premium,"Quiet Operation, Third Rack, Built-In, Portable, Stainless Steel Tub",3.4
+AP0093,Bosch Air Conditioner Model S3800,Air Conditioner,Bosch,Low,Window Unit,4.0
+AP0094,KitchenAid Blender Model Eco3824,Blender,KitchenAid,Medium,"Countertop, Smoothie Setting, Immersion, High Power",4.5
+AP0095,Sony Air Fryer Model Alpha8060,Air Fryer,Sony,Low,"Digital Controls, Multiple Presets",3.0
+AP0096,Samsung Electric Kettle Model S879,Electric Kettle,Samsung,Low,"Variable Temperature, Rapid Boil, Stainless Steel, Cordless",3.8
+AP0097,Miele Air Conditioner Model S7573,Air Conditioner,Miele,Medium,"Energy Saver, Split AC, Portable, Smart Control",2.6
+AP0098,Dyson Smart Speaker Model Eco2082,Smart Speaker,Dyson,Low,"Voice Assistant, Multi-room Audio, Wi-Fi, Bluetooth",2.1
+AP0099,Frigidaire Air Conditioner Model Max2264,Air Conditioner,Frigidaire,Medium,"Split AC, Portable, Window Unit, Energy Saver",4.4
+AP0100,LG Robot Vacuum Model Max4422,Robot Vacuum,LG,Medium,"Mopping Feature, Self-Charging, Mapping Technology, App Control",4.3
+AP0101,Sharp Stand Mixer Model Max818,Stand Mixer,Sharp,Premium,Planetary Action,2.9
+AP0102,Sony Range Hood Model X4438,Range Hood,Sony,Medium,Ductless,3.8
+AP0103,Cuisinart Dishwasher Model Pro9361,Dishwasher,Cuisinart,Medium,"Portable, Built-In, Stainless Steel Tub",3.9
+AP0104,Instant Pot Food Processor Model Alpha2081,Food Processor,Instant Pot,High,"Dough Blade, Multiple Blades, Large Bowl",2.8
+AP0105,Dyson Electric Kettle Model Alpha9362,Electric Kettle,Dyson,Medium,"Rapid Boil, Cordless, Variable Temperature, Stainless Steel",2.2
+AP0106,Electrolux Refrigerator Model S6096,Refrigerator,Electrolux,Medium,"Energy Star, French Door, Ice Maker",4.5
+AP0107,Maytag Electric Kettle Model Pro330,Electric Kettle,Maytag,Medium,"Stainless Steel, Variable Temperature, Cordless",4.8
+AP0108,GE Appliances Coffee Maker Model Eco5310,Coffee Maker,GE Appliances,Medium,"Espresso, Pod-Based, Programmable, Drip, Grind and Brew",3.4
+AP0109,Ninja Robot Vacuum Model Max6346,Robot Vacuum,Ninja,High,Self-Charging,3.5
+AP0110,Instant Pot Stand Mixer Model Alpha2557,Stand Mixer,Instant Pot,High,"Large Bowl Capacity, Multiple Attachments",3.8
+AP0111,Bosch Air Conditioner Model X1134,Air Conditioner,Bosch,High,"Window Unit, Split AC, Energy Saver",4.2
+AP0112,Sony Dishwasher Model Max550,Dishwasher,Sony,High,Third Rack,4.1
+AP0113,Kenmore Water Heater Model X7657,Water Heater,Kenmore,Low,"Gas, Storage Tank, Heat Pump, Tankless",4.4
+AP0114,Electrolux Dishwasher Model Eco1726,Dishwasher,Electrolux,Premium,"Third Rack, Stainless Steel Tub, Built-In, Portable, Quiet Operation",4.0
+AP0115,Frigidaire Toaster Model Eco7510,Toaster,Frigidaire,Low,"Wide Slots, 4-Slice",2.9
+AP0116,Maytag Dishwasher Model Eco8965,Dishwasher,Maytag,High,"Portable, Built-In, Third Rack, Stainless Steel Tub",2.8
+AP0117,Frigidaire Air Fryer Model Eco5287,Air Fryer,Frigidaire,High,"Large Capacity, Easy Clean",3.5
+AP0118,Sharp Washing Machine Model Pro5621,Washing Machine,Sharp,High,"Steam Cycle, Front Load, Smart Features",4.0
+AP0119,KitchenAid Coffee Maker Model X1786,Coffee Maker,KitchenAid,Medium,"Drip, Grind and Brew, Espresso",2.9
+AP0120,Instant Pot Dishwasher Model Alpha7786,Dishwasher,Instant Pot,Low,"Quiet Operation, Stainless Steel Tub, Portable",3.2
+AP0121,GE Appliances Electric Kettle Model S2549,Electric Kettle,GE Appliances,High,Cordless,3.1
+AP0122,Samsung Blender Model Pro6338,Blender,Samsung,Low,"Immersion, Countertop",3.7
+AP0123,Sharp Air Conditioner Model Max3883,Air Conditioner,Sharp,Medium,"Smart Control, Window Unit, Split AC, Portable, Energy Saver",2.9
+AP0124,Miele Security Camera Model X1023,Security Camera,Miele,Medium,"Wireless, Outdoor, Motion Detection, Night Vision",4.1
+AP0125,Bosch Air Fryer Model S2713,Air Fryer,Bosch,Medium,"Large Capacity, Easy Clean",3.0
+AP0126,Breville Washing Machine Model Max7766,Washing Machine,Breville,Medium,"Front Load, Steam Cycle",3.8
+AP0127,Kenmore Range Hood Model Eco6280,Range Hood,Kenmore,Low,"Powerful CFM, Ducted, Convertible, Ductless",3.1
+AP0128,Cuisinart Security Camera Model X6266,Security Camera,Cuisinart,High,"Wireless, Motion Detection, Night Vision",4.4
+AP0129,KitchenAid Dryer Model Pro6524,Dryer,KitchenAid,Medium,"Steam Cycle, Gas, Electric, Sensor Dry",2.1
+AP0130,Kenmore Air Conditioner Model X9731,Air Conditioner,Kenmore,Medium,"Smart Control, Split AC",3.9
+AP0131,Samsung Smart Speaker Model Alpha3740,Smart Speaker,Samsung,Premium,"Voice Assistant, Bluetooth, Multi-room Audio",4.3
+AP0132,Frigidaire Air Fryer Model Eco1541,Air Fryer,Frigidaire,High,"Digital Controls, Multiple Presets, Large Capacity, Easy Clean",2.9
+AP0133,Breville Smart Speaker Model S7309,Smart Speaker,Breville,High,Bluetooth,3.9
+AP0134,Instant Pot Dryer Model X3617,Dryer,Instant Pot,Medium,"Electric, Steam Cycle, Gas",3.7
+AP0135,Bosch Oven Model Eco9950,Oven,Bosch,High,"Electric, Smart Features, Self-Cleaning, Gas",2.5
+AP0136,Miele Microwave Model S8018,Microwave,Miele,High,"Over-the-Range, Sensor Cooking",3.3
+AP0137,Panasonic Air Conditioner Model Pro4477,Air Conditioner,Panasonic,High,"Portable, Window Unit",3.4
+AP0138,Whirlpool Toaster Model Eco7207,Toaster,Whirlpool,High,"Wide Slots, Toaster Oven",3.6
+AP0139,Breville Electric Kettle Model Max1292,Electric Kettle,Breville,Premium,"Rapid Boil, Variable Temperature, Stainless Steel, Cordless",2.5
+AP0140,Sony Air Fryer Model S2503,Air Fryer,Sony,High,"Digital Controls, Large Capacity",4.6
+AP0141,Ninja Smart Speaker Model Alpha8826,Smart Speaker,Ninja,Premium,"Wi-Fi, Multi-room Audio",2.1
+AP0142,LG Blender Model Max4983,Blender,LG,Premium,"Immersion, High Power, Countertop, Smoothie Setting",2.6
+AP0143,Cuisinart Food Processor Model Eco233,Food Processor,Cuisinart,Medium,Large Bowl,4.8
+AP0144,Cuisinart Electric Kettle Model X3971,Electric Kettle,Cuisinart,Medium,Rapid Boil,3.7
+AP0145,GE Appliances Stand Mixer Model X2752,Stand Mixer,GE Appliances,Medium,"Large Bowl Capacity, Planetary Action, Multiple Attachments",4.3
+AP0146,Kenmore Water Heater Model X5252,Water Heater,Kenmore,Medium,"Tankless, Electric",4.4
+AP0147,Instant Pot Security Camera Model Pro2359,Security Camera,Instant Pot,Premium,"Motion Detection, Indoor",4.5
+AP0148,Samsung Air Fryer Model X5077,Air Fryer,Samsung,Medium,"Multiple Presets, Digital Controls, Large Capacity",2.7
+AP0149,Haier Microwave Model Max7481,Microwave,Haier,High,Convection,4.8
+AP0150,Samsung Robot Vacuum Model Max4513,Robot Vacuum,Samsung,Premium,"Mopping Feature, Mapping Technology, Self-Charging",4.7
+AP0151,Cuisinart Robot Vacuum Model Max1063,Robot Vacuum,Cuisinart,Medium,"Mopping Feature, App Control",2.4
+AP0152,Samsung Toaster Model X4059,Toaster,Samsung,Low,"2-Slice, Toaster Oven",4.8
+AP0153,Haier Dryer Model Eco8144,Dryer,Haier,High,"Ventless, Electric, Steam Cycle",2.5
+AP0154,Miele Stand Mixer Model Alpha3030,Stand Mixer,Miele,Medium,"Multiple Attachments, Large Bowl Capacity",3.4
+AP0155,Dyson Food Processor Model Pro8926,Food Processor,Dyson,Medium,Dough Blade,3.3
+AP0156,Maytag Food Processor Model S4395,Food Processor,Maytag,Medium,"Dough Blade, Large Bowl",2.6
+AP0157,Cuisinart Refrigerator Model S8814,Refrigerator,Cuisinart,Low,"Energy Star, Smart Features",3.6
+AP0158,Miele Security Camera Model Alpha7929,Security Camera,Miele,Low,"Night Vision, Indoor, Motion Detection",2.1
+AP0159,Electrolux Security Camera Model Alpha7817,Security Camera,Electrolux,Premium,"Wireless, Motion Detection, Outdoor",2.4
+AP0160,Instant Pot Food Processor Model Eco2648,Food Processor,Instant Pot,High,"Multiple Blades, Dough Blade",3.5
+AP0161,Frigidaire Washing Machine Model Max7534,Washing Machine,Frigidaire,Medium,"Top Load, Front Load, High Efficiency, Steam Cycle",2.0
+AP0162,Maytag Robot Vacuum Model X6882,Robot Vacuum,Maytag,Medium,"Mopping Feature, Mapping Technology",4.4
+AP0163,Instant Pot Dishwasher Model Max2211,Dishwasher,Instant Pot,Medium,"Portable, Third Rack, Stainless Steel Tub, Quiet Operation, Built-In",2.3
+AP0164,Kenmore Electric Kettle Model S8853,Electric Kettle,Kenmore,Premium,Stainless Steel,2.5
+AP0165,Miele Oven Model Eco3350,Oven,Miele,High,"Smart Features, Electric",4.8
+AP0166,Breville Security Camera Model X3824,Security Camera,Breville,Premium,"Motion Detection, Outdoor, Indoor, Wireless",2.9
+AP0167,Haier Air Conditioner Model Pro250,Air Conditioner,Haier,High,Portable,3.0
+AP0168,Panasonic Food Processor Model Alpha2731,Food Processor,Panasonic,Low,Dough Blade,2.1
+AP0169,Haier Robot Vacuum Model X778,Robot Vacuum,Haier,Medium,"Self-Charging, Mopping Feature, Mapping Technology, App Control",4.9
+AP0170,Electrolux Refrigerator Model Eco9046,Refrigerator,Electrolux,Premium,"Energy Star, Ice Maker, Smart Features, French Door, Frost-Free",3.3
+AP0171,Kenmore Dishwasher Model Pro7981,Dishwasher,Kenmore,Premium,"Stainless Steel Tub, Built-In",3.1
+AP0172,GE Appliances Food Processor Model Alpha3711,Food Processor,GE Appliances,Low,Dough Blade,4.0
+AP0173,Whirlpool Dishwasher Model Pro1112,Dishwasher,Whirlpool,Low,"Built-In, Stainless Steel Tub, Portable, Third Rack",2.1
+AP0174,LG Microwave Model Eco457,Microwave,LG,Low,Convection,2.6
+AP0175,Miele Microwave Model X1520,Microwave,Miele,Low,"Countertop, Over-the-Range, Sensor Cooking",2.6
+AP0176,Whirlpool Air Conditioner Model Alpha8047,Air Conditioner,Whirlpool,Low,"Energy Saver, Window Unit, Smart Control",2.8
+AP0177,Panasonic Security Camera Model X4168,Security Camera,Panasonic,Medium,"Wireless, Motion Detection, Outdoor, Night Vision, Indoor",2.5
+AP0178,Sharp Air Conditioner Model Eco8661,Air Conditioner,Sharp,Low,"Window Unit, Smart Control",2.6
+AP0179,LG Air Conditioner Model Alpha8997,Air Conditioner,LG,High,"Portable, Smart Control",4.3
+AP0180,Electrolux Security Camera Model X5516,Security Camera,Electrolux,Premium,"Indoor, Motion Detection, Outdoor, Wireless, Night Vision",2.6
+AP0181,KitchenAid Dryer Model X1264,Dryer,KitchenAid,Medium,Gas,4.5
+AP0182,Samsung Coffee Maker Model Pro1551,Coffee Maker,Samsung,High,"Pod-Based, Programmable, Espresso",4.9
+AP0183,LG Electric Kettle Model Pro8101,Electric Kettle,LG,High,"Stainless Steel, Cordless, Variable Temperature",2.8
+AP0184,Maytag Coffee Maker Model S9541,Coffee Maker,Maytag,High,"Espresso, Pod-Based",2.3
+AP0185,Sharp Dryer Model X5754,Dryer,Sharp,Premium,"Electric, Sensor Dry",4.7
+AP0186,KitchenAid Washing Machine Model Max5239,Washing Machine,KitchenAid,Medium,Front Load,4.2
+AP0187,Ninja Range Hood Model Alpha4695,Range Hood,Ninja,Low,Ducted,3.1
+AP0188,Instant Pot Vacuum Cleaner Model Eco1311,Vacuum Cleaner,Instant Pot,High,"Upright, HEPA Filter, Canister, Cordless",3.5
+AP0189,Samsung Oven Model Alpha7217,Oven,Samsung,Low,"Double Oven, Smart Features",4.8
+AP0190,Whirlpool Smart Speaker Model Max6544,Smart Speaker,Whirlpool,Medium,Bluetooth,4.8
+AP0191,Miele Dryer Model S7522,Dryer,Miele,Medium,"Gas, Ventless, Electric",2.0
+AP0192,Breville Microwave Model Pro7252,Microwave,Breville,Medium,"Over-the-Range, Convection",3.0
+AP0193,Electrolux Coffee Maker Model S1894,Coffee Maker,Electrolux,Medium,"Espresso, Programmable",3.9
+AP0194,Sharp Food Processor Model Alpha2789,Food Processor,Sharp,Premium,Multiple Blades,3.8
+AP0195,Bosch Robot Vacuum Model X3626,Robot Vacuum,Bosch,High,"App Control, Self-Charging, Mopping Feature",2.1
+AP0196,Ninja Range Hood Model X7848,Range Hood,Ninja,Low,"Powerful CFM, Ductless",4.0
+AP0197,Whirlpool Toaster Model S2874,Toaster,Whirlpool,High,Wide Slots,4.4
+AP0198,Sharp Food Processor Model X8696,Food Processor,Sharp,Low,Large Bowl,3.5
+AP0199,Maytag Coffee Maker Model X4333,Coffee Maker,Maytag,Medium,Espresso,2.9

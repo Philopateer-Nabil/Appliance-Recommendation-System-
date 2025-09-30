@@ -67,7 +67,7 @@ The project follows these key steps:
 
 ## ⚙️ How to Run
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
     
 2.  **Install the required libraries:**
     ```bash

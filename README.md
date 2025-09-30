@@ -69,7 +69,7 @@ The project follows these key steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/appliance-recommendation-system.git](https://github.com/your-username/appliance-recommendation-system.git)
+    git clone [https://github.com/Philopateer-Nabil/appliance-recommendation-system.git](https://github.com/Philopateer-Nabil/appliance-recommendation-system.git)
     cd appliance-recommendation-system
     ```
 

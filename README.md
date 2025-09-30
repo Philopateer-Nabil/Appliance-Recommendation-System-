@@ -69,10 +69,7 @@ The project follows these key steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Philopateer-Nabil/appliance-recommendation-system.git](https://github.com/Philopateer-Nabil/appliance-recommendation-system.git)
-    cd appliance-recommendation-system
-    ```
-
+    
 2.  **Install the required libraries:**
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-surprise
